@@ -11,7 +11,7 @@
 <img src="https://hermes.digitalinnovation.one/companies/5d979068-e1cb-416a-ab7e-68c51003acdd.png" 
 alt="GFT - Quality Assurance Para Mulheres">
 
-> Este projeto teve como finalidade explorar
+> Este projeto teve como finalidade exploraro framework RestAssured 
  + Junit e a criação de reports com o Allure Framework. Será explorado também o uso de uma ferramenta poderosa na área de testes de qualidade de software, que é o Postman.
 
 
